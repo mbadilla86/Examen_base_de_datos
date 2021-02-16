@@ -1,4 +1,4 @@
-INSERT INTO products (name,unitprice, description)
+INSERT INTO products (name, price, description)
 VALUES
 ('Papa',600, 'kg'),
 ('Ayote',500, 'kg'),
@@ -6,5 +6,5 @@ VALUES
 ('Arroz',800, 'kg'),
 ('Frijoles',1000, 'kg'),
 ('Garbanzos',500, 'kg'),
-('Jabon',900, 'ud'),
-('Pasta de dientes',1200 'ud');
+('Jabon',900, 'kg'),
+('Pasta de dientes',1200, 'kg');

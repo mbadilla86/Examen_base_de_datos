@@ -1,4 +1,4 @@
-INSERT INTO categories (name,description)
+INSERT INTO category (name,description)
 VALUES
 ('Verduras', 'Hortaliza'),
 ('Granos', 'Semilla'),
