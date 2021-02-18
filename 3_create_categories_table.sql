@@ -1,6 +1,6 @@
 DROP TABLE IF EXISTS category;
-CREATE TABLE category (
-    ctgr SERIAL PRIMARY KEY,
-    name VARCHAR(50),
+CREATE TABLE category(
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(30),
     description VARCHAR(50)
 );

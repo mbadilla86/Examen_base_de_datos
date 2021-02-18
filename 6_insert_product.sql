@@ -1,10 +1,10 @@
-INSERT INTO products (name, price, description)
+INSERT INTO products (name, description, price)
 VALUES
-('Papa',600, 'kg'),
-('Ayote',500, 'kg'),
-('Yuca',400, 'kg'),
-('Arroz',800, 'kg'),
-('Frijoles',1000, 'kg'),
-('Garbanzos',500, 'kg'),
-('Jabon',900, 'kg'),
-('Pasta de dientes',1200, 'kg');
+('Papa','kg',600),
+('Ayote','kg',500),
+('Yuca','kg',400),
+('Arroz','kg',800),
+('Frijoles','kg',1000),
+('Garbanzos','kg',500),
+('Jabon','un',900),
+('Pasta de dientes','un',1200);
